@@ -1,0 +1,14 @@
+# 忽略构建产物
+.next/
+out/
+
+# 忽略依赖目录
+node_modules/
+
+# 忽略配置文件（可选）
+*.config.js
+*.config.ts
+
+# 忽略类型检查缓存
+dist/
+coverage/
