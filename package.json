@@ -5,6 +5,7 @@
     "dev": "next dev --turbopack",
     "start": "next start",
     "lint": "eslint . --ext .ts,.tsx",
+    "lint-next": "next lint",
     "lint:fix": "eslint . --ext .ts,.tsx --fix"
   },
   "dependencies": {
